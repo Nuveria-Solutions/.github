@@ -90,7 +90,7 @@ Repositories may include:
 *Technology for What's Next.*
 
 - **Website:** Coming soon
-- **Email:** Coming soon
+- **Email:** [nuveriasolutions@gmail.com](nuveriasolutions@gmail.com)
 - **GitHub:** [Nuveria-Solutions](https://github.com/Nuveria-Solutions)
 
 ---
